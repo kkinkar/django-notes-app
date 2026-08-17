@@ -24,3 +24,29 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# MySQL database data
+mysql-data/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+
+# Django
+*.sqlite3
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
